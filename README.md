@@ -22,7 +22,6 @@ Deploy to a docker container on Lightsail....
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
+## Example of search page 
 
-
-
-
+<img width="290" alt="Screen Shot 2023-10-20 at 2 51 31 PM" src="https://github.com/jbrouwer5/Drinks-App/assets/63489213/a934f199-7d9a-4555-bc8e-4131d387237b">
