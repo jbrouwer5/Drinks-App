@@ -1,0 +1,12 @@
+[submodule "quarkusrest-jbrouwer5"]
+	path = quarkusrest-jbrouwer5
+	url = git@github.com:cs-gerber/quarkusrest-jbrouwer5.git
+	branch = master
+[submodule "androidRetro-jbrouwer5"]
+	path = androidRetro-jbrouwer5
+	url = git@github.com:cs-gerber/androidRetro-jbrouwer5.git
+	branch = main
+[submodule "awscontact-jbrouwer5"]
+	path = awscontact-jbrouwer5
+	url = git@github.com:cs-gerber/awscontact-jbrouwer5.git
+	branch = master
